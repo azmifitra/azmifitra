@@ -19,5 +19,5 @@
 <p align="center">
   I'm currently working as Frontend Developer at Andalin Company which is located in Jakarta
   <br>
-  Currently making a switch career to tech with strong basic knowledge in JavaScript. Have a good understanding with several frameworks and libraries frontend such as React JS, Vue JS, and React Native. Also, have experience in database management systems such as postgreSQL (SQL) and mongoDB (NoSQL).
+  Have a good understanding with several frameworks and libraries frontend such as React JS, Vue JS, and React Native. Also, have experience in database management systems such as postgreSQL (SQL) and mongoDB (NoSQL).
 </p>
