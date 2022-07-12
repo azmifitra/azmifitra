@@ -10,6 +10,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/azmifitra_"><img height="22px" alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu"><img height="22px" src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=c13584"/></a>
+  <a href="https://www.instagram.com/azmiftrd/"><img height="22px" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=c13584"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.codewars.com/users/azmifitra"><img height="22px" src="https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=red"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
