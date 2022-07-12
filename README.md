@@ -17,4 +17,12 @@
   <!-- Instagram -->
   <a href="https://discord.gg/fPrdqh3Zfu"><img height="22px" src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=c13584"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+    <!-- Instagram -->
+  <a href="https://discord.gg/fPrdqh3Zfu"><img height="22px" src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=c13584"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+    <!-- Instagram -->
+  <a href="https://discord.gg/fPrdqh3Zfu"><img height="22px" src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=c13584"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
