@@ -15,3 +15,9 @@
   <a href="https://www.codewars.com/users/azmifitra"><img height="22px" src="https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=red"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+<p align="center">
+  I'm currently working as Frontend Developer at Andalin Company which is located in Jakarta
+  <br>
+  Currently making a switch career to tech with strong basic knowledge in JavaScript. Have a good understanding with several frameworks and libraries frontend such as React JS, Vue JS, and React Native. Also, have experience in database management systems such as postgreSQL (SQL) and mongoDB (NoSQL).
+</p>
