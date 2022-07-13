@@ -22,3 +22,16 @@ A highly motivated person and always want to develop my skills and expertise, es
  Currently working as Frontend Developer at Andalin Company which is located in Bandung, Indonesia.
   <br>
 </p>
+
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+<p align="center">
+  <img title="HTML" height="45" src="https://img.icons8.com/color/344/html-5--v1.png">
+  <img title="CSS" height="45" src="https://img.icons8.com/color/344/css3.png">
+  <img title="SCSS" height="45" src="https://img.icons8.com/color/344/sass.png">
+  <img title="Javascript" height="45" src="https://img.icons8.com/fluency/344/javascript.png">
+  <img title="NodeJS" height="45" src="https://img.icons8.com/fluency/344/node-js.png">
+  <img title="ReactJS" height="45" src="https://img.icons8.com/color/344/react-native.png">
+  <img title="VueJS" height="45" src="https://img.icons8.com/color/344/vue-js.png">
+  <img title="NuxtJS" height="45" src="https://upload.vectorlogo.zone/logos/nuxtjs/images/301439c2-1779-4826-89c9-5767327ce150.svg"> 
+  <!--  NuxtLogo Alternative: https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg -->
+</p>
