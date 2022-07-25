@@ -31,6 +31,7 @@ A highly motivated person and always want to develop my skills and expertise, es
   <img title="Javascript" height="45" src="https://img.icons8.com/fluency/344/javascript.png">
   <img title="NodeJS" height="45" src="https://img.icons8.com/fluency/344/node-js.png">
   <img title="ReactJS" height="45" src="https://img.icons8.com/color/344/react-native.png">
+  <img title="Redux" height="45" src="https://img.icons8.com/color/344/redux.png">
   <img title="VueJS" height="45" src="https://img.icons8.com/color/344/vue-js.png">
   <img title="NuxtJS" height="45" src="https://upload.vectorlogo.zone/logos/nuxtjs/images/301439c2-1779-4826-89c9-5767327ce150.svg"> 
   <!--  NuxtLogo Alternative: https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg -->
@@ -39,8 +40,15 @@ A highly motivated person and always want to develop my skills and expertise, es
   <img title="Postgresql" height="45" src="https://img.icons8.com/color/344/postgreesql.png">
   <img title="MongoDB" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png">
   <img title="Sequelize" height="45" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
-  <img title="Sequelize" height="45" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
-  <img title="Sequelize" height="45" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
-  https://img.icons8.com/color/344/redux.png
-  https://img.icons8.com/color/344/npm.png
-  </p>
+  <img title="NPM" height="45" src="https://img.icons8.com/color/344/npm.png">
+ </p>
+ 
+ <br>
+ 
+ <h2 align="center">🎯 Statistics 🎯</h2>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=azmifitra&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false"/>
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+ </a>
