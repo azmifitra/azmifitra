@@ -34,4 +34,13 @@ A highly motivated person and always want to develop my skills and expertise, es
   <img title="VueJS" height="45" src="https://img.icons8.com/color/344/vue-js.png">
   <img title="NuxtJS" height="45" src="https://upload.vectorlogo.zone/logos/nuxtjs/images/301439c2-1779-4826-89c9-5767327ce150.svg"> 
   <!--  NuxtLogo Alternative: https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg -->
-</p>
+  <img title="Git" height="45" src="https://img.icons8.com/color/344/git.png">
+  <img title="Github" height="45" src="https://img.icons8.com/ios-glyphs/344/github.png">
+  <img title="Postgresql" height="45" src="https://img.icons8.com/color/344/postgreesql.png">
+  <img title="MongoDB" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png">
+  <img title="Sequelize" height="45" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
+  <img title="Sequelize" height="45" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
+  <img title="Sequelize" height="45" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
+  https://img.icons8.com/color/344/redux.png
+  https://img.icons8.com/color/344/npm.png
+  </p>
