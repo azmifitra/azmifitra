@@ -19,7 +19,7 @@
 <p align="center">
 A highly motivated person and always want to develop my skills and expertise, especially in coding. Always willing to learn new things and challenge myself with the aim of becoming a successful person.
   <br>
- Currently working as Frontend Developer at Andalin Company which is located in Bandung, Indonesia.
+ Currently working as Frontend Developer at Andalin Company which is located in Jakarta, Indonesia.
   <br>
 </p>
 
