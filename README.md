@@ -49,10 +49,10 @@ A highly motivated person and always want to develop my skills and expertise, es
  <p align="center">
   <div align=center>
    <a align="left" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" >
-        <img height=175 src="https://github-readme-stats.vercel.app/api?username=azmifitra&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false"/>
+        <img height=135 src="https://github-readme-stats.vercel.app/api?username=azmifitra&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false"/>
    </a>
    <a align="right" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" >
-        <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmifitra&layout=compact&theme=tokyonight&border_color=61dafb"/>
+        <img height=135 src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmifitra&layout=compact&theme=tokyonight&border_color=61dafb"/>
    </a>
   </div>
  </p>
