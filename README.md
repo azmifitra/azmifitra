@@ -33,7 +33,9 @@ A highly motivated person and always want to develop my skills and expertise, es
   <img title="ReactJS" height="45" src="https://img.icons8.com/color/344/react-native.png">
   <img title="Redux" height="45" src="https://img.icons8.com/color/344/redux.png">
   <img title="VueJS" height="45" src="https://img.icons8.com/color/344/vue-js.png">
-  <img title="NuxtJS" height="45" src="https://upload.vectorlogo.zone/logos/nuxtjs/images/301439c2-1779-4826-89c9-5767327ce150.svg"> 
+  <img title="NuxtJS" height="45" src="https://upload.vectorlogo.zone/logos/nuxtjs/images/301439c2-1779-4826-89c9-5767327ce150.svg">
+  <img title="Tailwind CSS" height="45" src="https://img.icons8.com/color/512/tailwindcss.png">
+  <img title="Bootstrap CSS" height="45" src="https://img.icons8.com/color/512/bootstrap.png">
   <!--  NuxtLogo Alternative: https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg -->
   <img title="Git" height="45" src="https://img.icons8.com/color/344/git.png">
   <img title="Github" height="45" src="https://img.icons8.com/ios-glyphs/344/github.png">
